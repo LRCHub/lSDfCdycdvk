@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Zombie",
+  "base_artist": "The Cranberries",
+  "createdAt": "2026-02-28T08:13:07.929811Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PRADA ZOMBIE",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/01_PRADA_ZOMBIE_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Zombie (Live from the NIVA Save Our Stages Festival)",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/02_Zombie_(Live_from_the_NIVA_Save_Our_Stages_Festival)_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Zombie Boy",
+      "artist": "The Magnetic Fields",
+      "has_synced": false,
+      "path": "select/03_Zombie_Boy_The_Magnetic_Fields.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Zombie Man",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/04_Zombie_Man_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Zombie",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/05_Zombie_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Zombie",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/06_Zombie_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Zombie (feat. Morgan Phalen)",
+      "artist": "Kavinsky",
+      "has_synced": true,
+      "path": "select/07_Zombie_(feat._Morgan_Phalen)_Kavinsky.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Zombie",
+      "artist": "Kavinsky",
+      "has_synced": true,
+      "path": "select/08_Zombie_Kavinsky.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Playgirl (Zombie Nation mix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/09_Playgirl_(Zombie_Nation_mix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Zombie Graveyard Party",
+      "artist": "Be Your Own Pet",
+      "has_synced": false,
+      "path": "select/10_Zombie_Graveyard_Party_Be_Your_Own_Pet.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Zombie Limbo Time",
+      "artist": "Beat Happening",
+      "has_synced": false,
+      "path": "select/11_Zombie_Limbo_Time_Beat_Happening.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Zombie",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/12_Zombie_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Zombie",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/13_Zombie_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Zombie (Live in Madrid)",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/14_Zombie_(Live_in_Madrid)_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Zombie - Live At Féile, Tipperary, Ireland / 1994",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/15_Zombie_-_Live_At_Féile,_Tipperary,_Ireland___1994_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Zombie (Live at Féile, Tipperary, July 31, 1994)",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/16_Zombie_(Live_at_Féile,_Tipperary,_July_31,_1994)_The_Cranberries.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Zombie",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/pl_01_Zombie_The_Cranberries.txt"
+    }
+  ]
+}
